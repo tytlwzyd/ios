@@ -9,7 +9,7 @@
             <array>
                 <dict>
                     <key>kind</key>
-                    <string>software-package</string>
+                    <string>com.gsunis.echart</string>
                     <key>url</key>
                     <string>https://bucket-ynote-online-cdn.note.youdao.com/m18294421539%40163.com%2FBF5B72C349D648A4B49461E5C243E039?download=%E7%94%98%E8%82%83%E7%9C%81%E5%B7%AE%E5%BC%82%E5%8C%96%E6%94%B6%E8%B4%B9%E7%B3%BB%E7%BB%9F.ipa&Signature=onQDWKSiME4prRx%2F%2BRa02pJxzg16RbiPpehDcU16FcQ%3D&Expires=1679301868&NOSAccessKeyId=e7d1acab859342789faa85a4b0cb4c83</string>
                 </dict>
